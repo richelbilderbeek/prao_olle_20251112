@@ -1,7 +1,5 @@
 # Schedule
 
-## Friday November 7th 2025
-
 Start|What
 -----|-----
 9:00 |Be at Richel's office [B9:430b](office.md)
