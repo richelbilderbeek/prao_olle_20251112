@@ -14,7 +14,7 @@ I made a simple script that adds warning comments to a markdown file. The script
 Fighting the borrow checker
 
 ## What could be improved?
-Making a parser for markdown to for example, detect tables
+Perhaps discussing more about different methods to approach the task to understand different approaches to solving certain problems
 
 ## What did your supervisor do well?
 Listened to questions
