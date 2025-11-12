@@ -5,7 +5,8 @@
 Repositories:
 
 - [`scoreto` R package](https://github.com/richelbilderbeek/scoreto)
-- [SCoRe user documentation](https://nbisweden.github.io/SCoRe_user_doc) 
+- [SCoRe user documentation](https://nbisweden.github.io/SCoRe_user_doc)
+- [Script to edit](https://github.com/NBISweden/SCoRe_user_doc/blob/main/scripts/create_courses_page.sh)
 
 Example files:
 
