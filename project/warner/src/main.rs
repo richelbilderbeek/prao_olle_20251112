@@ -1,8 +1,8 @@
-use std::fs::{self};
+use std::{env::args, fs::{self}};
 
 
 fn main() {
-    let path = "courses.md";
+    let path = &args().collect::<Vec<String>>()[1];
     let read = fs::read_to_string(path).unwrap();
     let mut split: Vec<String> = read.split("\n").map(|v|v.to_string()).collect();
     let mut i = 0;
@@ -23,5 +23,5 @@ fn main() {
     for x in split {
         f += &(x + "\n");
     }
-    fs::write("courses.md", f).unwrap();
+    fs::write(path, f).unwrap();
 }
