@@ -3,7 +3,7 @@
 ## What I did well
 
 I treated Olle like a real colleague.
-
+The assignment was at the appropriate level.
 
 ## What I could do better
 
